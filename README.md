@@ -19,7 +19,7 @@ This is a simple and professional Todo web application built with React and Tail
 
 ## Live Demo
 
-You can check out the live demo here: https://www.todos-erarbazansari.netlify.app
+You can check out the live demo here: https://todos-erarbazansari.netlify.app/
 
 ## Installation
 
